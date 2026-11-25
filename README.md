@@ -27,3 +27,5 @@ img_a.jpg      →    photo 1.jpg
 img_b.jpg      →    photo 2.jpg
 
 img_c.jpg      →    photo 3.jpg
+
+Run CLI: `python file_name_changer.py`
